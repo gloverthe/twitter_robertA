@@ -1,0 +1,4 @@
+constants.py
+#santweets.db
+/cardiffnlp/*
+/cardiffnlp/pytorch_model.bin
